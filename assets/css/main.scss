@@ -3,23 +3,53 @@
 ---
 @charset "utf-8";
 
-// Dimensions
+// Dimensions (Liquid interpolation remains the same)
 $max-content-width: {{ site.max_width }};
 
-@import
-  "variables",
-  "themes",
-  "layout",
-  "base",
-  "distill",
-  "cv",
-  "tabs",
-  "typograms",
-  "font-awesome/fontawesome",
-  "font-awesome/brands",
-  "font-awesome/solid",
-  "font-awesome/regular",
-  "tabler-icons/tabler-icons.scss",
-  "tabler-icons/tabler-icons-filled.scss",
-  "tabler-icons/tabler-icons-outline.scss"
-;
+// Use SCSS modules from ../../_sass
+@use "../../_sass/variables" as variables;
+@use "../../_sass/themes" as themes;
+@use "../../_sass/layout" as layout;
+@use "../../_sass/base" as base;
+@use "../../_sass/distill" as distill;
+@use "../../_sass/cv" as cv;
+@use "../../_sass/tabs" as tabs;
+@use "../../_sass/typograms" as typograms;
+
+@use "../../_sass/font-awesome/fontawesome" as fontawesome;
+@use "../../_sass/font-awesome/brands" as brands;
+@use "../../_sass/font-awesome/solid" as solid;
+@use "../../_sass/font-awesome/regular" as regular;
+
+@use "../../_sass/tabler-icons/tabler-icons" as tabler;
+@use "../../_sass/tabler-icons/tabler-icons-filled" as tablerFilled;
+@use "../../_sass/tabler-icons/tabler-icons-outline" as tablerOutline;
+
+
+
+
+// ---
+// # Only the main Sass file needs front matter (the dashes are enough)
+// ---
+// @charset "utf-8";
+
+// // Dimensions
+// $max-content-width: {{ site.max_width }};
+
+// @import
+//   "variables",
+//   "themes",
+//   "layout",
+//   "base",
+//   "distill",
+//   "cv",
+//   "tabs",
+//   "typograms",
+//   "font-awesome/fontawesome",
+//   "font-awesome/brands",
+//   "font-awesome/solid",
+//   "font-awesome/regular",
+//   "tabler-icons/tabler-icons.scss",
+//   "tabler-icons/tabler-icons-filled.scss",
+//   "tabler-icons/tabler-icons-outline.scss"
+// ;
