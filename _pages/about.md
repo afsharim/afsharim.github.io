@@ -6,7 +6,7 @@ subtitle: Ph.D. Student in Computer Science
 
 profile:
   align: right
-  image: milad.jpg
+  image: milad.jpeg
   image_circular: false # crops the image to make it circular
   #more_info: >
   #  <p>555 your office number</p>
