@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our paper is accepted in SemEval-2025 workshop.
+Our paper has been accepted at the SemEval-2025 Workshop! 🎉
