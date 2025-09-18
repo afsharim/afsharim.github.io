@@ -384,18 +384,18 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-long-announcement-with-details",
+            },},{id: "news-excited-to-share-that-our-paper-towards-understanding-task-agnostic-debiasing-through-the-lenses-of-intrinsic-bias-and-forgetfulness-is-accepted-in-findings-of-acl-2024",
+          title: 'Excited to share that our paper Towards Understanding Task-agnostic Debiasing Through the Lenses...',
+          description: "",
+          section: "News",},{id: "news-happy-to-announce-that-our-paper-mrs-at-semeval-2025-task-11-a-hybrid-approach-for-bridging-the-gap-in-text-based-emotion-detection-will-appear-at-the-semeval-2025-workshop",
+          title: 'Happy to announce that our paper “MRS at SemEval-2025 Task 11: A Hybrid...',
+          description: "",
+          section: "News",},{id: "news-a-long-announcement-with-details",
           title: 'A long announcement with details',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-our-paper-has-been-accepted-at-the-semeval-2025-workshop",
-          title: 'Our paper has been accepted at the SemEval-2025 Workshop! 🎉',
-          description: "",
-          section: "News",},{id: "projects-project-1",
+              window.location.href = "/news/announcement_1/";
+            },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
           section: "Projects",handler: () => {
