@@ -388,7 +388,7 @@ ninja.data = [{
           title: 'Excited to share that our paper Towards Understanding Task-agnostic Debiasing Through the Lenses...',
           description: "",
           section: "News",},{id: "news-happy-to-announce-that-our-paper-mrs-at-semeval-2025-task-11-a-hybrid-approach-for-bridging-the-gap-in-text-based-emotion-detection-will-appear-at-the-semeval-2025-workshop",
-          title: 'Happy to announce that our paper “MRS at SemEval-2025 Task 11: A Hybrid...',
+          title: 'Happy to announce that our paper MRS at SemEval-2025 Task 11: A Hybrid...',
           description: "",
           section: "News",},{id: "news-thrilled-to-share-that-our-paper-obliviator-reveals-the-cost-of-nonlinear-guardedness-in-concept-erasure-is-accepted-at-neurips-2025",
           title: 'Thrilled to share that our paper Obliviator Reveals the Cost of Nonlinear Guardedness...',
