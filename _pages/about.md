@@ -14,7 +14,7 @@ profile:
   #  <p>Your City, State 12345</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: false # includes social icons at the bottom of the page
+social: true # includes social icons at the bottom of the page
 
 announcements:
   enabled: true # includes a list of news items
@@ -31,5 +31,5 @@ Hi there! I’m Milad Afshari, a PhD student in Computer Science at <a href='htt
 
 My research focuses on fairness in large language models, where I explore how biases emerge, propagate, and can be mitigated in modern AI systems. I’m particularly interested in developing evaluation frameworks and intervention strategies that promote equitable model behavior across diverse user groups. By identifying structural and social factors that influence model outputs, my work aims to contribute to more inclusive and responsible AI technologies.
 
-If you'd like to connect or chat about research, feel free to reach out via email.
+If you'd like to connect or chat about research, feel free to reach out via <a href='afsharim@msu.edu'>email</a>.
 
