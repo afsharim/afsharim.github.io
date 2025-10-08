@@ -446,11 +446,25 @@ ninja.data = [{
           window.open("mailto:%61%66%73%68%61%72%69%6D@%6D%73%75.%65%64%75", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-github',
+        title: 'GitHub',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://github.com/afsharim# your GitHub user name", "_blank");
+        },
+      },{
+        id: 'social-linkedin',
+        title: 'LinkedIn',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://www.linkedin.com/in/milad-afshari-0501041ba", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=5oRXh5oxgXwC", "_blank");
         },
       },{
       id: 'light-theme',
