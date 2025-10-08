@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-04-17 21:15:00-0400
+date: 2025-09-10 21:15:00-0400
 inline: true
 related_posts: false
 ---
 
-Happy to announce that our paper **MRS at SemEval-2025 Task 11: A Hybrid Approach for Bridging the Gap in Text-Based Emotion Detection** will appear at the SemEval-2025 Workshop. 🎉
+Excited to announce that our paper **SPP: Achieving Low-Probability-of-Intercept Cellular and Wi-Fi Communications via MIMO-based Spatial Pilot Perturbation** has been accepted for publication in IEEE Transactions on Wireless Communications. 🎉
